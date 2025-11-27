@@ -38,7 +38,7 @@ body {
 
 #chat-container {
     width: 90%;
-    height: 700px;
+    height: 900px;
     border: 2px solid #00ff88;
     border-radius: 10px;
 }
@@ -67,3 +67,4 @@ footer {
     border-top: 1px solid #00ff88;
     width: 100%;
 }
+
